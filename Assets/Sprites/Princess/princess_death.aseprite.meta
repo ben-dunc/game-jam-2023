@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0e78e7f37d6608945ba6c2144a2dcefb
+guid: 244ae684a1bdc0247848dd032b7ed57e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,18 +119,38 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: princess_attack_down_Frame_0
+  - name: princess_death_Frame_0
     originalName: 
-    pivot: {x: 0.5714286, y: 0}
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 20
+      y: 21
+      width: 8
+      height: 8
+    spriteID: a980b8f69eb3a1a40ad25e163abfd558
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20, y: 21}
+  - name: princess_death_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.11111111}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 20
       y: 4
-      width: 7
-      height: 8
-    spriteID: 75fc4282238640c43aea05fe0440566c
+      width: 8
+      height: 9
+    spriteID: aed645d964606c049b1c950c978c9679
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -139,9 +159,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 20, y: 4}
-  - name: princess_attack_down_Frame_1
+  - name: princess_death_Frame_2
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -149,8 +169,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 8
-      height: 8
-    spriteID: f4b4374cc459c4744980a1087d607c44
+      height: 10
+    spriteID: 7300175be4fa7984f909359e9c7b648a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -159,18 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: princess_attack_down_Frame_2
+  - name: princess_death_Frame_3
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 20
+      y: 22
       width: 8
-      height: 8
-    spriteID: 81603e4d04815e4469e5fdac5bf53410
+      height: 10
+    spriteID: cb4a728cb22973642a263c6e19ca1f18
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -178,40 +198,76 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 20}
+    uvTransform: {x: 4, y: 22}
+  - name: princess_death_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 40
+      width: 8
+      height: 10
+    spriteID: 2d6f69b66633d084f9c79b63fe6cdc2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 40}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1271251635
-    name: princess_attack_down
+    guid: 1952082076
+    name: princess_death
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: princess_attack_down_Frame_0
+    - name: princess_death_Frame_0
       frameIndex: 0
       cellRect:
         x: 0
         y: 0
-        width: 7
+        width: 8
         height: 8
-      spriteId: 75fc4282238640c43aea05fe0440566c
-    - name: princess_attack_down_Frame_1
+      spriteId: a980b8f69eb3a1a40ad25e163abfd558
+    - name: princess_death_Frame_1
       frameIndex: 1
       cellRect:
         x: 0
-        y: 0
+        y: -1
         width: 8
-        height: 8
-      spriteId: f4b4374cc459c4744980a1087d607c44
-    - name: princess_attack_down_Frame_2
+        height: 9
+      spriteId: aed645d964606c049b1c950c978c9679
+    - name: princess_death_Frame_2
       frameIndex: 2
       cellRect:
         x: 0
-        y: 0
+        y: -2
         width: 8
-        height: 8
-      spriteId: 81603e4d04815e4469e5fdac5bf53410
+        height: 10
+      spriteId: 7300175be4fa7984f909359e9c7b648a
+    - name: princess_death_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -2
+        width: 8
+        height: 10
+      spriteId: cb4a728cb22973642a263c6e19ca1f18
+    - name: princess_death_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -2
+        width: 8
+        height: 10
+      spriteId: 2d6f69b66633d084f9c79b63fe6cdc2a
     linkedCells: []
     parentIndex: -1
   platformSettings: []
