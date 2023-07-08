@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2db87dc6f99f7b4aaf617b4c5454ed8
+guid: 10cc3207a37e2cf46983a8a710f4035a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: princess_attack_up_0
+      name: princess_attack_down_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff6af769cdd4edb4e8c2c15da53c4117
-      internalID: 683950547
+      spriteID: 70dd675a78b9e724e9c57ae51459488d
+      internalID: 1638091467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: princess_attack_up_1
+      name: princess_attack_down_1
       rect:
         serializedVersion: 2
         x: 8
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98b36b4b5ea49bb4aa3f80c18f0f7b1e
-      internalID: 2080480842
+      spriteID: 9e50c6e3ea8702c4083094edfe73b705
+      internalID: 644404188
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: princess_attack_up_2
+      name: princess_attack_down_2
       rect:
         serializedVersion: 2
         x: 16
@@ -179,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 624f3069bc101fb4a8292a10b0d39f3f
-      internalID: -2137125020
+      spriteID: 7d78e98259f2c9a48b94fcc2ee6d757b
+      internalID: 769002536
       vertices: []
       indices: 
       edges: []
@@ -196,9 +196,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      princess_attack_up_0: 683950547
-      princess_attack_up_1: 2080480842
-      princess_attack_up_2: -2137125020
+      princess_attack_down_0: 1638091467
+      princess_attack_down_1: 644404188
+      princess_attack_down_2: 769002536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

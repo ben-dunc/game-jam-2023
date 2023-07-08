@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2db87dc6f99f7b4aaf617b4c5454ed8
+guid: 5153e5860f7e40b4b9083caf0db88762
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: princess_attack_up_0
+      name: princess_attack_right_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff6af769cdd4edb4e8c2c15da53c4117
-      internalID: 683950547
+      spriteID: 9ad91248b76232946813918ec2c7a544
+      internalID: -632003844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: princess_attack_up_1
+      name: princess_attack_right_1
       rect:
         serializedVersion: 2
         x: 8
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98b36b4b5ea49bb4aa3f80c18f0f7b1e
-      internalID: 2080480842
+      spriteID: 63f0f7eb184a9a6408f0b594b80c2902
+      internalID: 511058844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: princess_attack_up_2
+      name: princess_attack_right_2
       rect:
         serializedVersion: 2
         x: 16
@@ -179,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 624f3069bc101fb4a8292a10b0d39f3f
-      internalID: -2137125020
+      spriteID: 77b17efbc724027499761199ffb136a6
+      internalID: 708228757
       vertices: []
       indices: 
       edges: []
@@ -196,9 +196,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      princess_attack_up_0: 683950547
-      princess_attack_up_1: 2080480842
-      princess_attack_up_2: -2137125020
+      princess_attack_right_0: -632003844
+      princess_attack_right_1: 511058844
+      princess_attack_right_2: 708228757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
