@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dcb46fbac2d36b34b95eee3bb4c145e9
+guid: 134b4ad8d417122499f6cee8e8f5622f
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,98 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: princess_idle
+  - name: princess_attack_up_Frame_0
     originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 4
-      width: 8
-      height: 8
-    spriteID: 14c11955709c7b441b210c65ce6f7073
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
-  - name: princess_idle_Frame_1
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 20
-      width: 8
-      height: 8
-    spriteID: 402c10096f1827746aea8b9c8c0518b7
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 20}
-  - name: princess_idle_Frame_2
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 36
-      width: 8
-      height: 8
-    spriteID: faaa6e6e48e4c2a4a9c7fb4a00e7a838
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 36}
-  - name: princess_idle_Frame_3
-    originalName: 
-    pivot: {x: 0.5, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 52
-      width: 8
-      height: 8
-    spriteID: ab4fa503e6bd5e14881b76c7502754b2
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 52}
-  - name: princess_idle_Frame_4
-    originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.42857146, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 20
       y: 4
-      width: 8
+      width: 7
       height: 8
-    spriteID: f43e8e74ac1db064eb9c55ce62dd3b32
+    spriteID: 8d50465e4582cd342a6b4bc500280954
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -219,18 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 20, y: 4}
-  - name: princess_idle_Frame_5
+  - name: princess_attack_up_Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 20
-      y: 20
+      x: 4
+      y: 4
       width: 8
       height: 8
-    spriteID: 96fb13c22337d1d48bb5d9f618617cbc
+    spriteID: b2d13e0c3d031cd42a033afacfb6b16d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -238,64 +158,60 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 20, y: 20}
+    uvTransform: {x: 4, y: 4}
+  - name: princess_attack_up_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 20
+      width: 8
+      height: 8
+    spriteID: 727618652011d30468db293619038523
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 20}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -89824492
-    name: princess_idle
+    guid: -1804194514
+    name: princess_attack_up
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: princess_idle_Frame_0
+    - name: princess_attack_up_Frame_0
       frameIndex: 0
       cellRect:
-        x: 0
+        x: 1
         y: 0
-        width: 8
+        width: 7
         height: 8
-      spriteId: 14c11955709c7b441b210c65ce6f7073
-    - name: princess_idle_Frame_1
+      spriteId: 8d50465e4582cd342a6b4bc500280954
+    - name: princess_attack_up_Frame_1
       frameIndex: 1
       cellRect:
         x: 0
         y: 0
         width: 8
         height: 8
-      spriteId: 402c10096f1827746aea8b9c8c0518b7
-    - name: princess_idle_Frame_2
+      spriteId: b2d13e0c3d031cd42a033afacfb6b16d
+    - name: princess_attack_up_Frame_2
       frameIndex: 2
       cellRect:
         x: 0
         y: 0
         width: 8
         height: 8
-      spriteId: faaa6e6e48e4c2a4a9c7fb4a00e7a838
-    - name: princess_idle_Frame_3
-      frameIndex: 3
-      cellRect:
-        x: 0
-        y: 0
-        width: 8
-        height: 8
-      spriteId: ab4fa503e6bd5e14881b76c7502754b2
-    - name: princess_idle_Frame_4
-      frameIndex: 4
-      cellRect:
-        x: 0
-        y: 0
-        width: 8
-        height: 8
-      spriteId: f43e8e74ac1db064eb9c55ce62dd3b32
-    - name: princess_idle_Frame_5
-      frameIndex: 5
-      cellRect:
-        x: 0
-        y: 0
-        width: 8
-        height: 8
-      spriteId: 96fb13c22337d1d48bb5d9f618617cbc
+      spriteId: 727618652011d30468db293619038523
     linkedCells: []
     parentIndex: -1
   platformSettings: []
