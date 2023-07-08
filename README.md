@@ -7,6 +7,7 @@ Benjamin Duncan - Adam Shaeffer - Clark Shaeffer
 - Player plays as villan, fights heroes.
 - Play as boss of dungeon, fight heroes that come.
 - Princess saves knights, beats BBEG.
+- Dinner rolls eat people XD
 
 ### 2. Pun on words (roles -> rolls, i.e.: dice rolls, dinner rolls)
 - Driving game but only drive in reverse.
