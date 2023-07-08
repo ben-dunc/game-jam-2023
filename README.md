@@ -15,3 +15,6 @@ Benjamin Duncan - Adam Shaeffer - Clark Shaeffer
 
 ### 3. (Meta) Reversing one role
 - Reverse the steps of the ["Hero's Journey"](https://en.wikipedia.org/wiki/Hero%27s_journey).
+
+## Ideas for other games we might make
+- An "Ultimate Chicken Horse"-esque game where players take turns being the BBEG of a dungeon (adding traps and monsters) and being the heroes that invade it. The goal for the heroes would be to clear the dungeon while the BBEG would need to prevent/minimize the heroes from taking loot. At the beginning of each round, the roles would rotate, the BBEG would be provided with some traps & monsters to place and the hero players would have the opportunity to either change stats on their character or choose character presets that would appear (pre-made characters). The heroes would have to split the loot at the end of the round, to give competition between them too. PVP?? Any of y'all have ideas???
